@@ -295,6 +295,12 @@ Outside software engineering you'll probably find me:
 
 ---
 
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/alejaam/alejaam/output/github-contribution-grid-snake-dark.svg">
+
+</p>
+
 <div align="center">
 
 ### Thanks for stopping by 👋
