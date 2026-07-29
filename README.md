@@ -2,63 +2,77 @@
 
 # Alejandro Alamar
 
-### Software Engineer at Mercado Libre
+### Software Engineer @ Mercado Libre
 
-**Backend systems · AI tooling · Automation**
+**Backend Engineer · AI Engineer · Distributed Systems**
 
-I build reliable backend systems and practical developer tooling for real operational problems.
+Building scalable backend systems, AI-powered tools, and automation.
 
-[LinkedIn](https://www.linkedin.com/in/alejandro-alamar) · [Email](mailto:ale.jaam21@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Engineer;AI+Engineer;Distributed+systems+and+automation;Building+useful+developer+tooling" alt="Backend Engineer, AI Engineer, Distributed systems and automation, Building useful developer tooling" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-alamar)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ale.jaam21@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=alejaam&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
 ---
 
-## Focus
+## About Me
 
-- Backend engineering and distributed systems
-- AI agents, automation, and developer tooling
-- Self-hosted infrastructure and homelab operations
-- Software that is simple to understand, operate, and evolve
+I build backend systems and AI-powered tooling with a focus on reliability, operability, and developer experience.
 
-## Selected Work
+I am interested in distributed systems, automation workflows, self-hosted infrastructure, and software that stays understandable as it grows.
 
-### [Micha](https://github.com/alejaam/micha)
+## Tech Stack
 
-A shared-expenses application for roommates, couples, and families.
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
 
-**Stack:** Go, React, PostgreSQL, Docker Compose
+## GitHub Analytics
 
-**Architecture:** DDD, Clean Architecture, and Hexagonal Architecture
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alejaam&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Alejandro's GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejaam&layout=compact&hide_border=true&theme=transparent" alt="Alejandro's most used languages" />
+</div>
 
-### [DevHarness](https://github.com/alejaam/devharness)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=alejaam&theme=transparent&hide_border=true" alt="Alejandro's contribution streak" />
+</div>
 
-A portable setup kit for AI coding agents: rules, skills, memory, and agent configuration across multiple runtimes.
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alejaam&theme=github-compact&hide_border=true" alt="Alejandro's contribution graph" />
+</div>
 
-**Focus:** reproducible agent environments, configuration portability, and developer experience.
+## Featured Work
 
-## Engineering Principles
+| Project | What it demonstrates |
+| --- | --- |
+| [Micha](https://github.com/alejaam/micha) | Shared-expenses application built with Go, React, PostgreSQL, DDD, Clean Architecture, and Hexagonal Architecture. |
+| [DevHarness](https://github.com/alejaam/devharness) | Portable AI-agent setup kit for rules, skills, memory, and configuration across multiple runtimes. |
 
-I care about systems that are:
+## Engineering Mindset
 
-- Modular and maintainable
-- Observable in production
-- Scalable when the problem requires it
-- Simple before clever
+> Build systems that are modular, observable, maintainable, and simple before clever.
 
-Good engineering is not about writing more code. It is about building software that people can understand, operate, and improve over time.
+Good engineering is not about writing more code. It is about building software people can understand, operate, and evolve.
 
-## Currently Exploring
+## Beyond Code
 
-- AI agents and automation workflows
-- Backend platform design
-- Self-hosted infrastructure
-- Developer tooling
+🏠 Improving my homelab · 📚 Learning something new · 📹 Creating content · ☕ Debugging over coffee
 
 ---
 
 <div align="center">
 
-Based in Mexico · Building, learning, and sharing along the way.
+### Thanks for stopping by 👋
+
+*Keep growing.*
 
 </div>
